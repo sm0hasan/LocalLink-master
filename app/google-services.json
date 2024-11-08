@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052907408642",
+    "project_id": "autogreen-552df",
+    "storage_bucket": "autogreen-552df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052907408642:android:673cca8fb9ffccf67d061b",
+        "android_client_info": {
+          "package_name": "ECE452.AutoGreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOSMKEdZpv6DJSP62Y8YSEwcfn99XJRqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
